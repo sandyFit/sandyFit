@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A Full Stack Developer with a strong foundation in graphic design. Passionate about using software as a solution to real-world problems. 
+
+- 🧑‍🎓 Currently diving deep into Generative AI and exploring how it can enhance human creativity and productivity.
+
+- 🤓 A lifelong learner — always curious, always growing.
+
+- 🤔 Actively looking for new job opportunities where I can make an impact and grow with a collaborative team.
+
+- 💥 Check out my work on [My Portfolio](https://trishramos.com) — I’d love to hear what you think!
