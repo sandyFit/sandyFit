@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 A Full Stack Developer with a strong foundation in graphic design. Passionate about using software as a solution to real-world problems. 
 
+- ⚙️ Frequently in my toolbox: .js, .jsx, .html, .css, .svg, .py, .md, .psd
+  
 - 🧑‍🎓 Currently diving deep into Generative AI and exploring how it can enhance human creativity and productivity.
 
 - 🤓 A lifelong learner — always curious, always growing.
