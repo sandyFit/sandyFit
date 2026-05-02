@@ -24,4 +24,6 @@ A Full Stack Developer with a strong foundation in graphic design. Passionate ab
 
 - 🤔 Actively looking for new job opportunities where I can make an impact and grow with a collaborative team.
 
+<!-- 
 - 💥 Check out my work on [My Portfolio](https://trishramos.com) — I’d love to hear what you think!
+-->
